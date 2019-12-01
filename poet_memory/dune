@@ -1,0 +1,3 @@
+(library
+  (name poet_memory)
+  (libraries poet yojson))

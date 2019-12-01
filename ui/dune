@@ -1,0 +1,3 @@
+(executable
+  (name console)
+  (libraries poet poet_memory))
